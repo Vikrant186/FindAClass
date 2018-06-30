@@ -1,0 +1,7 @@
+C:\Git\GitFirstApp\GitFirstApp\bin\Debug\GitFirstApp.exe.config
+C:\Git\GitFirstApp\GitFirstApp\bin\Debug\GitFirstApp.exe
+C:\Git\GitFirstApp\GitFirstApp\bin\Debug\GitFirstApp.pdb
+C:\Git\GitFirstApp\GitFirstApp\obj\Debug\GitFirstApp.csprojAssemblyReference.cache
+C:\Git\GitFirstApp\GitFirstApp\obj\Debug\GitFirstApp.csproj.CoreCompileInputs.cache
+C:\Git\GitFirstApp\GitFirstApp\obj\Debug\GitFirstApp.exe
+C:\Git\GitFirstApp\GitFirstApp\obj\Debug\GitFirstApp.pdb
